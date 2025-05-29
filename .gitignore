@@ -1,1 +1,20 @@
+# macOS system files
 .DS_Store
+
+# Node modules (if you ever use Node.js)
+node_modules/
+
+# Logs
+*.log
+
+# Build output folders
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE/editor files (VSCode, JetBrains, etc.)
+.vscode/
+.idea/
