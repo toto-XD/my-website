@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Tord, but online</title>
+</head>
+
+<body>
+    <nav class="menu">
+        
+        <a href="./index.html">Home</a>
+        <a href="./aboutme.html">About</a>
+        <a href="./books.html">Books I've read</a>
+        <a href="./links.html">Links I enjoy</a>
+        
+    </nav>
+    <div id="1">
+        <h1>Header</h1>
+        <p>Subtitle or description</p>
+        
+    </div>
+    
+    <div id="2">
+        <h2>Currently I'm working on:</h2>
+            <a href="https://www.stugu.no" target="_blank">This is a link, currently to Stugu.no</a>
+    </div>
+
+    <div id="3">
+        <img src="https://m.media-amazon.com/images/I/91lE07SpOjL._SX342_.jpg" /> <!--this is very interesting, it means that I can pull pictures from the whole web to populate my website-->
+    </div>
+
+    <footer>
+        <p>Don't know what to put in the footer, but there will be something in the future</p>
+    </footer>
+</body>
+
+</html>
